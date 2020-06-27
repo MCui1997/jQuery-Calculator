@@ -17,3 +17,9 @@ Process:
 6. Set up if statements for the different functions of the calculator, close the if statements and have the calculator display the result. 
 
 7. Set up clear function so that all operators are clear and only the result shows on screen. 
+
+## Links
+
+Repo: https://github.com/MCui1997/jQuery-Calculator/
+
+GitHub: https://mcui1997.github.io/jQuery-Calculator/
